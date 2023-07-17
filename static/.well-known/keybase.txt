@@ -1,0 +1,53 @@
+https://keybase.io/lukereed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lreed.net
+  * I am lukereed (https://keybase.io/lukereed) on keybase.
+  * I have a public key ASAO4p9fhCN1ig8ZYXa1kMjkSzuQrZ94N3QSWChS1tcOnQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012046d5fa992eb570bbfaf95e6b24800bd7d50920551bf22d0b4ee1028f8599afc60a",
+      "host": "keybase.io",
+      "kid": "01200ee29f5f8423758a0f196176b590c8e44b3b90ad9f78377412582852d6d70e9d0a",
+      "uid": "0acb3cdfb0a32224c7b0339d0257fd19",
+      "username": "lukereed"
+    },
+    "merkle_root": {
+      "ctime": 1689553726,
+      "hash": "74ec8bebb479f19fedbcaff1bb16af07e0839892be9014fe812924cdbe8023f6e455681554de1b4d5fd0fa1d9a8011cea67aa6031a594175514cd2220f9b0381",
+      "hash_meta": "acd23142da23400cc5467cd85fbd7f4a8554a059707b13a6e93f5b9b29e13f85",
+      "seqno": 24693247
+    },
+    "service": {
+      "entropy": "geH5+SutKdmLIqZ8I6Zgh5EQ",
+      "hostname": "lreed.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.0"
+  },
+  "ctime": 1689553729,
+  "expire_in": 504576000,
+  "prev": "75c18dc8a3ff81e119deb485ce2116bc250762ad7c3d7f08793b55e3141db968",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDuKfX4QjdYoPGWF2tZDI5Es7kK2feDd0ElgoUtbXDp0Kp3BheWxvYWTESpcCVMQgdcGNyKP/geEZ3rSFziEWvCUHYq18PX8IeTtV4xQduWjEIHFwpUX6qkmoL1efCXmR8ZF/3Okt3aPvHpeCvOg6kvmaAgHCo3NpZ8RArTPfRqmJkVWQs3MO36nbp1S+JR44Bbl7aXx+pYPzbfhCw16klbX66/WXxm+mTYwwH3Oek+AgM5qVhQ4sAw6SAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKKLgcLI8WDIqCkLf+jOEsbjrHTEmwLldEwrw/wjDNYRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lukereed
